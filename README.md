@@ -1,1 +1,1 @@
-# Dynamic-Prize-Optimization
+Prize Optimization Analysis
